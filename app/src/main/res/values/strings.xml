@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Recipe Live Unit Conversions</string>
+    <string name="accessibility_service">Screen Reader Accessibility Service</string>
+</resources>
